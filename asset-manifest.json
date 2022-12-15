@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0501caba.css",
+    "main.js": "/static/js/main.0ba71fae.js",
+    "static/media/hride.PNG": "/static/media/hride.70461260b840dbeab75e.PNG",
+    "static/media/mine.PNG": "/static/media/mine.9f06ce8c0ea929871fd7.PNG",
+    "static/media/eden.PNG": "/static/media/eden.22fa772a133bb3971c85.PNG",
+    "static/media/flamland.PNG": "/static/media/flamland.5a26f7667d56b7950f47.PNG",
+    "static/media/cloudf.PNG": "/static/media/cloudf.2df9b0b878632c973915.PNG",
+    "static/media/bgh.jpg": "/static/media/bgh.d1c0e4e140e7ffbfdc5d.jpg",
+    "static/media/unto.PNG": "/static/media/unto.f9074828e03eb22929be.PNG",
+    "static/media/bg1.jpg": "/static/media/bg1.00a3414b588c0c8e818e.jpg",
+    "static/media/bg3.jpeg": "/static/media/bg3.8e7a058cac90d9ac3d87.jpeg",
+    "static/media/boat.jpeg": "/static/media/boat.92680aae4838bd588ac1.jpeg",
+    "static/media/tree1.jpg": "/static/media/tree1.ca175b66e811c10fdef8.jpg",
+    "static/media/boat.jpg": "/static/media/boat.9dda4697c0dc9506f411.jpg",
+    "static/media/map.PNG": "/static/media/map.d74cc18ea69882c31810.PNG",
+    "static/media/horse.jpg": "/static/media/horse.f64adf6f8024d1806374.jpg",
+    "static/media/bus.PNG": "/static/media/bus.6db61aa3cee34d278a9d.PNG",
+    "static/media/beach.jpg": "/static/media/beach.a51da00b7fb64c3f0025.jpg",
+    "static/media/sea.JPG": "/static/media/sea.e17240366e5b019dbe0a.JPG",
+    "static/media/tea.JPG": "/static/media/tea.3236f7510e3225ac9cc4.JPG",
+    "static/media/bag.PNG": "/static/media/bag.fbe7540c2a3c7106ddce.PNG",
+    "static/media/scase.PNG": "/static/media/scase.d37a3522781b90ff9dfe.PNG",
+    "static/media/sbus.PNG": "/static/media/sbus.b79fb6e23a4a893827f1.PNG",
+    "static/media/lizad.JPG": "/static/media/lizad.f170b57973042078745c.JPG",
+    "static/media/bg2.jpg": "/static/media/bg2.eca39f7ef1e56bccd68c.jpg",
+    "static/media/bear.png": "/static/media/bear.f082f175f14868b93ff7.png",
+    "index.html": "/index.html",
+    "main.0501caba.css.map": "/static/css/main.0501caba.css.map",
+    "main.0ba71fae.js.map": "/static/js/main.0ba71fae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0501caba.css",
+    "static/js/main.0ba71fae.js"
+  ]
+}
